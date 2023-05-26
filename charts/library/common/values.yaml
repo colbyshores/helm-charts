@@ -173,9 +173,6 @@ hostname:
 # -- Use the host's ipc namespace
 hostIPC: false
 
-# -- When using hostNetwork make sure you set dnsPolicy to `ClusterFirstWithHostNet`
-hostNetwork: false
-
 # -- Use the host's pid namespace
 hostPID: false
 
